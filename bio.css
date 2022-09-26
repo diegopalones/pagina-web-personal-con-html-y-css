@@ -15,7 +15,7 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	margin: auto;
-	padding: 40px 0;
+	padding: 70px 0;
     display: grid;
     grid-template-columns: 3fr 1fr;
     gap: 20px;
@@ -68,7 +68,7 @@ body {
 	
 }
 
-.banner {
+.card-2 {
 	border-radius: 10px;
 	text-align: center;
 	padding: 20px;
@@ -80,8 +80,23 @@ body {
 
 }
 
-.banner:hover {
+.card-2:hover {
 
 	transform:scale(1.8)
 
 }
+
+.flex-container {
+
+    display: flex;
+    justify-content: space-around;
+	
+
+}
+
+.link-footer {
+	all:unset;
+	color: white;
+	font-family: 'Caveat', cursive;
+	font-size: 50px;
+	cursor: pointer;
