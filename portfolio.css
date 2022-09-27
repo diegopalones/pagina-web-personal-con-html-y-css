@@ -1,6 +1,7 @@
 * {
     margin: o;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -11,6 +12,8 @@ body {
    line-height: 1.6;
    
 }
+
+
 
 .title {
 
