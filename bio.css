@@ -6,10 +6,11 @@
 
 body {
 
-	background: #1D202B;
+	background-image: url(./images/blue-wall.jpg);
 	color: #fff;
 	font-family: 'Roboto', sans-serif;
 }
+
 
 .contenedor {
 	width: 90%;
@@ -109,3 +110,5 @@ transform: rotate(360deg);
 	font-family: 'Caveat', cursive;
 	font-size: 50px;
 	cursor: pointer;
+
+}
