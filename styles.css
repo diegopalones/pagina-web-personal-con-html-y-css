@@ -34,7 +34,7 @@ body {
     color: chocolate;
         
 
-        }
+    }
 
 .my_name, h1, h2, p {
     font-family: 'Caveat', cursive; 
@@ -68,7 +68,7 @@ body {
     display: flex;
     justify-content:space-evenly;
     font-size: 80px;
-    padding: 20px;
+    padding: 80px;
     height: 40px;
     width: auto;
     
@@ -87,6 +87,10 @@ body {
 }
 
 
+
+    
+        
+    
 
 
 
