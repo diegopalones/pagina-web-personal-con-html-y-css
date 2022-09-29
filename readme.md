@@ -4,9 +4,9 @@ este es el proyecto de mi pagina personal. He incluido en el proyecto algunas fo
 
 ## Tecnologías que he utilizado 
 
-Todo el contenido de la página ha sido creado con HTML5 y CCS3
+Todo el contenido de la página ha sido creado con HTML5 y CCS3.
 
 
 ### Preview
 
-![img] 
+![Alt text](./images/home.png)
