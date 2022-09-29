@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
 * {
     margin:  0%;
     padding: 0%;
@@ -9,6 +11,8 @@
 body {
 
     background-image: url(/images/fondo_form.jpg);
+    background-size: cover;
+    margin: auto;
 
 }
 
@@ -17,22 +21,23 @@ body {
 
     display: flex;
     justify-content: space-around;
+    padding: 15px;
     
         
     } 
     
 .link-heather {
     all:unset;
-    color: white;
-    font-family: 'Caveat', cursive;
-    font-size: 50px;
+    color: rgb(151, 60, 50);
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
     cursor: pointer;
             
         }
 
 .link-heather:hover {
 
-    color: chocolate;
+    color: rgb(24, 27, 228);
         
 
     }
@@ -73,6 +78,7 @@ body {
   border-color: blue;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 14px;
+  color: white;
 }
 
 .submit {

@@ -112,3 +112,8 @@ transform: rotate(360deg);
 	cursor: pointer;
 
 }
+
+.link-footer:hover {
+
+	color: blue;
+}
